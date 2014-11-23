@@ -1,0 +1,7 @@
+H:\Project_Web\MySqlCodefirstDemo\Core.Model\bin\Debug\Core.Model.dll
+H:\Project_Web\MySqlCodefirstDemo\Core.Model\bin\Debug\Core.Model.pdb
+H:\Project_Web\MySqlCodefirstDemo\Core.Model\bin\Debug\Common.Tools.dll
+H:\Project_Web\MySqlCodefirstDemo\Core.Model\bin\Debug\Common.Tools.pdb
+H:\Project_Web\MySqlCodefirstDemo\Core.Model\obj\Debug\Core.Model.csprojResolveAssemblyReference.cache
+H:\Project_Web\MySqlCodefirstDemo\Core.Model\obj\Debug\Core.Model.dll
+H:\Project_Web\MySqlCodefirstDemo\Core.Model\obj\Debug\Core.Model.pdb

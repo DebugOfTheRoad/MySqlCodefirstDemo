@@ -1,0 +1,14 @@
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\Common.Data.dll.config
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\Common.Data.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\Common.Data.pdb
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\Common.Tools.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\EntityFramework.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\EntityFramework.SqlServer.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\MySql.Data.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\Common.Tools.pdb
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\EntityFramework.xml
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\bin\Debug\EntityFramework.SqlServer.xml
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\obj\Debug\Common.Data.csprojResolveAssemblyReference.cache
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\obj\Debug\Common.Data.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Data\obj\Debug\Common.Data.pdb

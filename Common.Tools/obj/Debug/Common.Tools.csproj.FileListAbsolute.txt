@@ -1,0 +1,4 @@
+H:\Project_Web\MySqlCodefirstDemo\Common.Tools\bin\Debug\Common.Tools.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Tools\bin\Debug\Common.Tools.pdb
+H:\Project_Web\MySqlCodefirstDemo\Common.Tools\obj\Debug\Common.Tools.dll
+H:\Project_Web\MySqlCodefirstDemo\Common.Tools\obj\Debug\Common.Tools.pdb
